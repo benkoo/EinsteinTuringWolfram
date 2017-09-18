@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     44532,       1045]
-NotebookOptionsPosition[     35725,        847]
-NotebookOutlinePosition[     36236,        866]
-CellTagsIndexPosition[     36193,        863]
+NotebookDataLength[     46771,       1097]
+NotebookOptionsPosition[     37526,        889]
+NotebookOutlinePosition[     38037,        908]
+CellTagsIndexPosition[     37994,        905]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -196,8 +196,49 @@ in many cognitive science literature.\
 \>", "Text",
  CellChangeTimes->{{3.7146488237466383`*^9, 3.714649342131317*^9}, {
   3.714649378638451*^9, 3.7146496426489563`*^9}, {3.714649683633069*^9, 
-  3.714649814148604*^9}},ExpressionUUID->"436623a7-9239-4165-a103-\
-fed238df43b9"],
+  3.714649814148604*^9}, {3.7147344728506737`*^9, 
+  3.7147344728508043`*^9}},ExpressionUUID->"16c6c94d-80f3-4b25-a83b-\
+4879a29b6bc2"],
+
+Cell["\<\
+After talking to Randy Xiao, who I just met today. He has clearly dedicated a \
+significant amount of time to study YiJing, therefore, with his help, it \
+would be useful to include the Chinese classic, YiJing, the book of change, \
+as a part of the main reference. Obviously, when we talk about science \
+history, Mozi must be included.\
+\>", "Text",
+ CellChangeTimes->{{3.7146488237466383`*^9, 3.714649342131317*^9}, {
+  3.714649378638451*^9, 3.7146496426489563`*^9}, {3.714649683633069*^9, 
+  3.714649814148604*^9}, {3.714734473790534*^9, 3.7147345314045153`*^9}, {
+  3.714734640806809*^9, 
+  3.714734696618042*^9}},ExpressionUUID->"7d671976-c4b9-4aea-92b4-\
+ac9fbb335cd3"],
+
+Cell[CellGroupData[{
+
+Cell["Reference for the ABC curriculum", "Subsection",
+ CellChangeTimes->{{3.714734810137251*^9, 3.714734817231216*^9}, {
+  3.714734890650648*^9, 
+  3.714734894934431*^9}},ExpressionUUID->"b5ae5091-715e-47ed-9d1e-\
+6afa24670b70"],
+
+Cell["\<\
+As I started writing the content, I realized that the book proposed by Ray \
+and Gautam, can be a great reference book for my courses. An immediate task \
+is to start collecting reference material for the book, and it can be \
+continuously expanded when my students are taking the course with me.\
+\>", "Text",
+ CellChangeTimes->{{3.714734824243698*^9, 
+  3.714734877605543*^9}},ExpressionUUID->"a2289b4b-2d06-44f7-afcb-\
+75d0e570b267"],
+
+Cell["", "Text",
+ CellChangeTimes->{{3.7146488237466383`*^9, 3.714649342131317*^9}, {
+  3.714649378638451*^9, 3.7146496426489563`*^9}, {3.714649683633069*^9, 
+  3.714649814148604*^9}, {3.714734473790534*^9, 3.7147345314045153`*^9}, {
+  3.714734640806809*^9, 
+  3.714734645083612*^9}},ExpressionUUID->"0dfca0ba-126f-43d9-8d26-\
+189111685ce5"],
 
 Cell[CellGroupData[{
 
@@ -577,6 +618,7 @@ Cell[BoxData[
 a9df-c1d21163e771"],
 
 Cell["Enter table note here.", "TableNote",ExpressionUUID->"10421d71-b1a5-4525-8b31-a0dd820bc857"]
+}, Open  ]]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -909,140 +951,150 @@ Cell[6507, 164, 806, 13, 126, "Text", "ExpressionUUID" -> \
 "bd6ffc3b-8554-448f-a723-6d579c4c1d51"],
 Cell[7316, 179, 313, 7, 32, "Text", "ExpressionUUID" -> \
 "81c90af9-e64b-46b4-9b06-26a15285dbac"],
-Cell[7632, 188, 677, 11, 103, "Text", "ExpressionUUID" -> \
+Cell[7632, 188, 730, 12, 103, "Text", "ExpressionUUID" -> \
 "16c6c94d-80f3-4b25-a83b-4879a29b6bc2"],
+Cell[8365, 202, 686, 12, 79, "Text", "ExpressionUUID" -> \
+"7d671976-c4b9-4aea-92b4-ac9fbb335cd3"],
 Cell[CellGroupData[{
-Cell[8334, 203, 261, 8, 32, "TableTitle", "ExpressionUUID" -> \
+Cell[9076, 218, 229, 4, 50, "Subsection", "ExpressionUUID" -> \
+"b5ae5091-715e-47ed-9d1e-6afa24670b70"],
+Cell[9308, 224, 446, 8, 79, "Text", "ExpressionUUID" -> \
+"a2289b4b-2d06-44f7-afcb-75d0e570b267"],
+Cell[9757, 234, 341, 6, 32, "Text", "ExpressionUUID" -> \
+"0dfca0ba-126f-43d9-8d26-189111685ce5"],
+Cell[CellGroupData[{
+Cell[10123, 244, 261, 8, 32, "TableTitle", "ExpressionUUID" -> \
 "f675042f-48fd-4262-99dd-6fe92d68f72e"],
-Cell[8598, 213, 2623, 54, 152, "Table", "ExpressionUUID" -> \
+Cell[10387, 254, 2623, 54, 152, "Table", "ExpressionUUID" -> \
 "a41e4237-ba75-4d5a-8b19-07ad8eb0f743"],
-Cell[11224, 269, 98, 0, 23, "TableNote", "ExpressionUUID" -> \
+Cell[13013, 310, 98, 0, 23, "TableNote", "ExpressionUUID" -> \
 "27b715c7-f376-4589-95e2-7aff7b3b0aa8"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[11359, 274, 286, 6, 32, "TableTitle", "ExpressionUUID" -> \
+Cell[13148, 315, 286, 6, 32, "TableTitle", "ExpressionUUID" -> \
 "ce3aa1ad-1649-47df-8bfe-ddec11b65745"],
-Cell[11648, 282, 3615, 71, 152, "Table", "ExpressionUUID" -> \
+Cell[13437, 323, 3615, 71, 152, "Table", "ExpressionUUID" -> \
 "ac2e74b4-f79c-4abd-92ca-afd8909bcc32"],
-Cell[15266, 355, 98, 0, 23, "TableNote", "ExpressionUUID" -> \
+Cell[17055, 396, 98, 0, 23, "TableNote", "ExpressionUUID" -> \
 "b02dbfc1-38f1-4e86-be94-41e80c742085"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[15401, 360, 286, 6, 32, "TableTitle", "ExpressionUUID" -> \
+Cell[17190, 401, 286, 6, 32, "TableTitle", "ExpressionUUID" -> \
 "397fd629-859f-4adb-af1f-00c090696313"],
-Cell[15690, 368, 4578, 88, 152, "Table", "ExpressionUUID" -> \
+Cell[17479, 409, 4578, 88, 152, "Table", "ExpressionUUID" -> \
 "e24acdbb-28a7-4cac-b485-9bf8f5218428"],
-Cell[20271, 458, 98, 0, 23, "TableNote", "ExpressionUUID" -> \
+Cell[22060, 499, 98, 0, 23, "TableNote", "ExpressionUUID" -> \
 "3b3c96e4-8506-4733-9be3-905326bb2d7a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[20406, 463, 286, 6, 32, "TableTitle", "ExpressionUUID" -> \
+Cell[22195, 504, 286, 6, 32, "TableTitle", "ExpressionUUID" -> \
 "ed31909f-e869-4b4e-a6fa-d369554cb762"],
-Cell[20695, 471, 5556, 105, 176, "Table", "ExpressionUUID" -> \
+Cell[22484, 512, 5556, 105, 176, "Table", "ExpressionUUID" -> \
 "ab7d5be1-1660-4fb6-9a5e-84524a330552"],
-Cell[26254, 578, 98, 0, 23, "TableNote", "ExpressionUUID" -> \
+Cell[28043, 619, 98, 0, 23, "TableNote", "ExpressionUUID" -> \
 "7ba58686-3192-4b8b-8cd8-22409de05136"]
+}, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[26389, 583, 104, 0, 50, "Subsection", "ExpressionUUID" -> \
+Cell[28190, 625, 104, 0, 50, "Subsection", "ExpressionUUID" -> \
 "ef4992ef-2642-4fc1-b858-33a7e9a02621"],
 Cell[CellGroupData[{
-Cell[26518, 587, 262, 6, 32, "Theorem", "ExpressionUUID" -> \
+Cell[28319, 629, 262, 6, 32, "Theorem", "ExpressionUUID" -> \
 "72ddfd1f-5ffa-4063-b6db-eb3009090b12"],
-Cell[26783, 595, 120, 0, 32, "TheoremContinuation", "ExpressionUUID" -> \
+Cell[28584, 637, 120, 0, 32, "TheoremContinuation", "ExpressionUUID" -> \
 "cb41ccca-eade-469a-b1ec-6e56664ea817"],
-Cell[26906, 597, 276, 6, 32, "Corollary", "ExpressionUUID" -> \
+Cell[28707, 639, 276, 6, 32, "Corollary", "ExpressionUUID" -> \
 "e01a6424-74a2-49ce-bb6a-e52a85b8f6b9"],
-Cell[27185, 605, 120, 0, 32, "LemmaContinuation", "ExpressionUUID" -> \
+Cell[28986, 647, 120, 0, 32, "LemmaContinuation", "ExpressionUUID" -> \
 "9edd672d-c5f0-48ff-b62a-65b551d6c06d"],
-Cell[27308, 607, 271, 6, 32, "Definition", "ExpressionUUID" -> \
+Cell[29109, 649, 271, 6, 32, "Definition", "ExpressionUUID" -> \
 "95af9c88-888a-4772-8e4f-58f2fdbb5431"],
-Cell[27582, 615, 126, 0, 32, "DefinitionContinuation", "ExpressionUUID" -> \
+Cell[29383, 657, 126, 0, 32, "DefinitionContinuation", "ExpressionUUID" -> \
 "6ce8add4-890f-4e00-821b-f9759b0025aa"],
-Cell[27711, 617, 290, 6, 32, "Proposition", "ExpressionUUID" -> \
+Cell[29512, 659, 290, 6, 32, "Proposition", "ExpressionUUID" -> \
 "662038c3-a4c6-4170-a204-1c90dfd99e56"],
-Cell[28004, 625, 128, 0, 32, "PropositionContinuation", "ExpressionUUID" -> \
+Cell[29805, 667, 128, 0, 32, "PropositionContinuation", "ExpressionUUID" -> \
 "7ee2d9ca-0fca-4473-8611-9c2657e44cc2"],
-Cell[28135, 627, 283, 6, 32, "Conjecture", "ExpressionUUID" -> \
+Cell[29936, 669, 283, 6, 32, "Conjecture", "ExpressionUUID" -> \
 "221e1011-6397-4a7e-81a9-4e1f12edd196"],
-Cell[28421, 635, 126, 0, 32, "ConjectureContinuation", "ExpressionUUID" -> \
+Cell[30222, 677, 126, 0, 32, "ConjectureContinuation", "ExpressionUUID" -> \
 "3c1a982b-03fb-4e5b-9c02-d7904533d0eb"],
-Cell[28550, 637, 248, 6, 32, "Axiom", "ExpressionUUID" -> \
+Cell[30351, 679, 248, 6, 32, "Axiom", "ExpressionUUID" -> \
 "8a5dfc94-6d9d-45e0-b5ec-9fbfe4abe73f"],
-Cell[28801, 645, 116, 0, 32, "AxiomContinuation", "ExpressionUUID" -> \
+Cell[30602, 687, 116, 0, 32, "AxiomContinuation", "ExpressionUUID" -> \
 "40b71f4c-a2b4-4a77-b81a-b3963c615f4b"],
-Cell[28920, 647, 241, 6, 32, "Rule", "ExpressionUUID" -> \
+Cell[30721, 689, 241, 6, 32, "Rule", "ExpressionUUID" -> \
 "07c0f6cf-db1a-477f-b50e-c8ff1b258232"],
-Cell[29164, 655, 114, 0, 32, "RuleContinuation", "ExpressionUUID" -> \
+Cell[30965, 697, 114, 0, 32, "RuleContinuation", "ExpressionUUID" -> \
 "153cd982-c8db-417e-a0b2-898e1cb6e1b1"],
-Cell[29281, 657, 262, 6, 32, "Example", "ExpressionUUID" -> \
+Cell[31082, 699, 262, 6, 32, "Example", "ExpressionUUID" -> \
 "9f471e72-2c50-47fd-bde4-15b41ddf89ae"],
-Cell[29546, 665, 120, 0, 32, "ExampleContinuation", "ExpressionUUID" -> \
+Cell[31347, 707, 120, 0, 32, "ExampleContinuation", "ExpressionUUID" -> \
 "8fba1a97-8f07-49fb-8408-97fd089f4d17"],
-Cell[29669, 667, 255, 6, 32, "Remark", "ExpressionUUID" -> \
+Cell[31470, 709, 255, 6, 32, "Remark", "ExpressionUUID" -> \
 "39dc66a6-ce4e-45fb-9ae3-3359b19a22df"],
-Cell[29927, 675, 118, 0, 32, "RemarkContinuation", "ExpressionUUID" -> \
+Cell[31728, 717, 118, 0, 32, "RemarkContinuation", "ExpressionUUID" -> \
 "1b8c5375-f010-4d53-b8b0-25112ded631f"],
-Cell[30048, 677, 267, 6, 32, "Solution", "ExpressionUUID" -> \
+Cell[31849, 719, 267, 6, 32, "Solution", "ExpressionUUID" -> \
 "b47f315b-af51-4cbe-9cf4-1f64250c81d7"],
-Cell[30318, 685, 122, 0, 32, "SolutionContinuation", "ExpressionUUID" -> \
+Cell[32119, 727, 122, 0, 32, "SolutionContinuation", "ExpressionUUID" -> \
 "135ecb6d-b441-471c-b76a-337a59aa2e0b"],
-Cell[30443, 687, 249, 6, 32, "Proof", "ExpressionUUID" -> \
+Cell[32244, 729, 249, 6, 32, "Proof", "ExpressionUUID" -> \
 "1e931c1e-7812-411e-8a24-8db98275d565"],
-Cell[30695, 695, 116, 0, 32, "ProofContinuation", "ExpressionUUID" -> \
+Cell[32496, 737, 116, 0, 32, "ProofContinuation", "ExpressionUUID" -> \
 "cb149962-ac45-461f-9491-eb6d8bef4c39"],
-Cell[30814, 697, 84, 0, 35, "QED", "ExpressionUUID" -> \
+Cell[32615, 739, 84, 0, 35, "QED", "ExpressionUUID" -> \
 "55bc0562-76c1-41c1-bba3-24c6cd97a9b5"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[30959, 704, 107, 0, 72, "AppendixSection", "ExpressionUUID" -> \
+Cell[32760, 746, 107, 0, 72, "AppendixSection", "ExpressionUUID" -> \
 "4740c8a4-8531-44bb-b1f4-09abb1b2bcd8"],
 Cell[CellGroupData[{
-Cell[31091, 708, 172, 3, 32, "Appendix", "ExpressionUUID" -> \
+Cell[32892, 750, 172, 3, 32, "Appendix", "ExpressionUUID" -> \
 "43598a95-d5eb-4eac-af6d-1988784dfbaf"],
-Cell[31266, 713, 244, 7, 61, "AppendixEquation", "ExpressionUUID" -> \
+Cell[33067, 755, 244, 7, 61, "AppendixEquation", "ExpressionUUID" -> \
 "76966ab1-3c0d-42d3-8f66-2d600df52e5e"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[31559, 726, 121, 0, 72, "AcknowledgmentsSection", "ExpressionUUID" -> \
+Cell[33360, 768, 121, 0, 72, "AcknowledgmentsSection", "ExpressionUUID" -> \
 "fca7038a-97ce-499a-8e39-88a9de7c2984"],
-Cell[31683, 728, 113, 0, 32, "Acknowledgments", "ExpressionUUID" -> \
+Cell[33484, 770, 113, 0, 32, "Acknowledgments", "ExpressionUUID" -> \
 "a7191764-5848-491e-bde2-e81bc923d7be"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[31833, 733, 105, 0, 72, "EndnoteSection", "ExpressionUUID" -> \
+Cell[33634, 775, 105, 0, 72, "EndnoteSection", "ExpressionUUID" -> \
 "4c1cb349-d74c-43f7-9a13-540ffdecc2d8"],
-Cell[31941, 735, 98, 0, 25, "Endnote", "ExpressionUUID" -> \
+Cell[33742, 777, 98, 0, 25, "Endnote", "ExpressionUUID" -> \
 "7b150a17-d0fe-4f89-8077-e8e8a29ab880"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[32076, 740, 109, 0, 72, "ReferenceSection", "ExpressionUUID" -> \
+Cell[33877, 782, 109, 0, 72, "ReferenceSection", "ExpressionUUID" -> \
 "44622f57-6980-4137-9998-3d1ae28521af"],
 Cell[CellGroupData[{
-Cell[32210, 744, 301, 9, 25, "Reference", "ExpressionUUID" -> \
+Cell[34011, 786, 301, 9, 25, "Reference", "ExpressionUUID" -> \
 "52b57c36-402e-4193-af63-f3dd6ab32cb4"],
-Cell[32514, 755, 321, 9, 25, "Reference", "ExpressionUUID" -> \
+Cell[34315, 797, 321, 9, 25, "Reference", "ExpressionUUID" -> \
 "1a6fbd85-e475-4a20-a247-96d567f59917"],
-Cell[32838, 766, 338, 9, 25, "Reference", "ExpressionUUID" -> \
+Cell[34639, 808, 338, 9, 25, "Reference", "ExpressionUUID" -> \
 "48378b9d-7ccb-4987-b769-0e48fc2194ee"],
-Cell[33179, 777, 251, 8, 25, "Reference", "ExpressionUUID" -> \
+Cell[34980, 819, 251, 8, 25, "Reference", "ExpressionUUID" -> \
 "20fb84d1-1bb1-48aa-a5b4-a30a752e77d3"],
-Cell[33433, 787, 271, 8, 25, "Reference", "ExpressionUUID" -> \
+Cell[35234, 829, 271, 8, 25, "Reference", "ExpressionUUID" -> \
 "0887da25-dfb4-4e2c-8f81-691f6fe4645e"],
-Cell[33707, 797, 288, 8, 25, "Reference", "ExpressionUUID" -> \
+Cell[35508, 839, 288, 8, 25, "Reference", "ExpressionUUID" -> \
 "1a5252d8-9a71-4842-9e38-ccd6cb934b58"],
-Cell[33998, 807, 380, 6, 47, "Reference", "ExpressionUUID" -> \
+Cell[35799, 849, 380, 6, 47, "Reference", "ExpressionUUID" -> \
 "2a921ac4-ba5e-48e3-af1f-7877b1bb0f25"],
-Cell[34381, 815, 419, 7, 47, "Reference", "ExpressionUUID" -> \
+Cell[36182, 857, 419, 7, 47, "Reference", "ExpressionUUID" -> \
 "c647e0fe-0373-42ec-ab1b-a0527ccfefe1"],
-Cell[34803, 824, 419, 7, 47, "Reference", "ExpressionUUID" -> \
+Cell[36604, 866, 419, 7, 47, "Reference", "ExpressionUUID" -> \
 "68f3d6fc-4c81-4369-b749-ad34102794f6"],
-Cell[35225, 833, 244, 4, 25, "Reference", "ExpressionUUID" -> \
+Cell[37026, 875, 244, 4, 25, "Reference", "ExpressionUUID" -> \
 "1cc3a723-ba85-4424-8310-e662f4f4c741"],
-Cell[35472, 839, 213, 3, 25, "Reference", "ExpressionUUID" -> \
+Cell[37273, 881, 213, 3, 25, "Reference", "ExpressionUUID" -> \
 "aa990aaf-5227-4f16-a3a2-43a2f6755589"]
 }, Open  ]]
 }, Open  ]]
